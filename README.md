@@ -44,7 +44,7 @@ Special emphasis is placed on:
 |--------------------|------------|
 | Default (1)        | 2910       |
 | No Default (0)     | 2106       |
-|                    |Total = 5016|
+|**Total**           | **5016**   |
 
 ## 📂 Repository Structure
 
