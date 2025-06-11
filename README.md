@@ -1,4 +1,4 @@
-# Credit Card Default Prediction using Risk-Based Modeling
+# Credit Card Default Prediction using Machine Learning and Risk-Based Modeling
 
 This project was developed under the guidance of **Finance Club, IIT Roorkee** as part of the Summer ML Project 2025.  
 It involves building a risk-aware binary classification model to predict whether a credit card customer is likely to default in the upcoming month based on historical financial behavior.
