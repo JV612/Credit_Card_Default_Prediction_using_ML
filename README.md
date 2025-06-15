@@ -54,5 +54,5 @@ Special emphasis is placed on:
 ├── validate_dataset_final.csv    # Test dataset (without labels)
 ├── train_dataset_final1.csv      # Labeled training dataset
 ├── README.md                     # Project overview and documentation
-├── submission_XXXX.csv           # Final prediction output file
+├── submission_23114104.csv       # Final prediction output file
 └── Report.pdf                    # Formal report submitted to Finance Club
