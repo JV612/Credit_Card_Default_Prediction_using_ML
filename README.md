@@ -29,12 +29,12 @@ Special emphasis is placed on:
 
 ## 📊 Model Performance (Split Validation Set)
 
-| Model             | Accuracy | Recall | F1 Score | F₂ Score | AUC-ROC |
+| Model             | Accuracy | Recall | F1 Score | AUC-ROC |    F₂  | 
 |------------------|----------|--------|----------|----------|---------|
-| Logistic Regression | 0.774  | 0.558  | 0.485    | 0.582    | 0.746   |
-| Random Forest       | 0.784  | 0.591  | 0.511    | 0.606    | 0.774   |
-| LightGBM            | 0.756  | 0.652  | 0.504    | 0.612    | 0.775   |
-| 🏆 **XGBoost (Final)** | **0.755** | **0.649** | **0.503** | **0.6149** | **0.777** |
+| Logistic Regression         | 0.5954  | 0.7734  | 0.4214  | 0.7496  | 0.5797 |
+|🏆**Random Forest**          |**0.5925**| **0.7931**  | **0.4295**  | **0.7529**  | **0.5925** |
+|LightGBM                    | 0.6123  | 0.7526  | 0.4251  | 0.7360  | 0.5753 |
+|XGBoost                     | 0.4988  | 0.8565  | 0.3944  | 0.7378  | 0.5832 |
 
 ---
 
@@ -42,8 +42,8 @@ Special emphasis is placed on:
 
 | Prediction         | Count      |
 |--------------------|------------|
-| Default (1)        | 2910       |
-| No Default (0)     | 2106       |
+| Default (1)        | 1287       |
+| No Default (0)     | 3729       |
 |**Total**           | **5016**   |
 
 ## 📂 Repository Structure
